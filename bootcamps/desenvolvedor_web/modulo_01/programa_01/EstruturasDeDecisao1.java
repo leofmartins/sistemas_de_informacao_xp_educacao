@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EstruturasDeDecisao {
+public class EstruturasDeDecisao1 {
 
     public static void main(String[] args) {
         int num1, num2;
